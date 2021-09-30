@@ -1,0 +1,19 @@
+==> Formulae
+autojump		icu4c			mpdecimal		tmux
+bash			jemalloc		msgpack			tree-sitter
+brotli			libev			ncurses			unibilium
+c-ares			libevent		neovim			utf8proc
+docker-compose		libidn2			nghttp2			vcprompt
+gdbm			libtermkey		node			wget
+gettext			libunistring		nvm			xz
+gh			libuv			openssl@1.1		yarn
+git			libvterm		pcre2			zenith
+git-flow		libyaml			python@3.9		zsh-syntax-highlighting
+git-lfs			luajit-openresty	readline
+htop			luv			sqlite
+
+==> Casks
+alfred			firefox			postman			sublime-text
+cheatsheet		flux			spark			visual-studio-code
+docker			iterm2			spectacle
+figma			macs-fan-control	sublime-merge
